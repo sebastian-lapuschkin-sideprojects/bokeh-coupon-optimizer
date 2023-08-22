@@ -1,1 +1,1 @@
-bokeh
+bokeh==2.3.3
